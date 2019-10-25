@@ -1,0 +1,25 @@
+﻿<Window x:Class="_02.wpf.HelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02.wpf.HelloWorld"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtNaam" Height="34" TextWrapping="Wrap" VerticalAlignment="Bottom" RenderTransformOrigin="1.217,4.887" Margin="0,0,350.6,217" HorizontalAlignment="Right" Width="385">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1" ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-180.094"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button x:Name="OK" Content="Ok" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Margin="509,171,209.6,0" Height="27" Click="YES"/>
+        <Button x:Name="RESET" Content="RESET" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75" Margin="653,171,0,0" Height="27" RenderTransformOrigin="1.053,0.704" Click="RESET_Click"/>
+        <Label x:Name="lblHello" Content="Wat is jouw naam?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="65,121,0,0" Width="205"/>
+
+    </Grid>
+</Window>

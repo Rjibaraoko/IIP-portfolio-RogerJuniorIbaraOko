@@ -1,0 +1,6 @@
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Gedicht\bin\Debug\02.Gedicht.exe.config
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Gedicht\bin\Debug\02.Gedicht.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Gedicht\bin\Debug\02.Gedicht.pdb
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Gedicht\obj\Debug\02.Gedicht.csprojAssemblyReference.cache
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Gedicht\obj\Debug\02.Gedicht.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Gedicht\obj\Debug\02.Gedicht.pdb

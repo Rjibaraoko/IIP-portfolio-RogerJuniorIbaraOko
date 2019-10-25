@@ -1,0 +1,6 @@
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.console.Greenhouse\bin\Debug\02.console.Greenhouse.exe.config
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.console.Greenhouse\bin\Debug\02.console.Greenhouse.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.console.Greenhouse\bin\Debug\02.console.Greenhouse.pdb
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.console.Greenhouse\obj\Debug\02.console.Greenhouse.csprojAssemblyReference.cache
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.console.Greenhouse\obj\Debug\02.console.Greenhouse.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.console.Greenhouse\obj\Debug\02.console.Greenhouse.pdb

@@ -1,0 +1,5 @@
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Console.AsciiArt\bin\Debug\02.Console.AsciiArt.exe.config
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Console.AsciiArt\bin\Debug\02.Console.AsciiArt.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Console.AsciiArt\bin\Debug\02.Console.AsciiArt.pdb
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Console.AsciiArt\obj\Debug\02.Console.AsciiArt.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Console.AsciiArt\obj\Debug\02.Console.AsciiArt.pdb

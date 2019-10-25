@@ -1,0 +1,6 @@
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Hello\bin\Debug\02.Hello.exe.config
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Hello\bin\Debug\02.Hello.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Hello\bin\Debug\02.Hello.pdb
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Hello\obj\Debug\02.Hello.csprojAssemblyReference.cache
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Hello\obj\Debug\02.Hello.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.Hello\obj\Debug\02.Hello.pdb

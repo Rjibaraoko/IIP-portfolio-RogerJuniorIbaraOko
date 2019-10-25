@@ -1,0 +1,14 @@
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\02.wpf.HelloWorld.csprojAssemblyReference.cache
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\MainWindow.g.cs
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\App.g.cs
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\02.wpf.HelloWorld_MarkupCompile.cache
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\02.wpf.HelloWorld_MarkupCompile.lref
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\bin\Debug\02.wpf.HelloWorld.exe.config
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\bin\Debug\02.wpf.HelloWorld.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\bin\Debug\02.wpf.HelloWorld.pdb
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\MainWindow.baml
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\02.wpf.HelloWorld.g.resources
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\_02.wpf.HelloWorld.Properties.Resources.resources
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\02.wpf.HelloWorld.csproj.GenerateResource.cache
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\02.wpf.HelloWorld.exe
+D:\Ethical Hacker\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.HelloWorld\obj\Debug\02.wpf.HelloWorld.pdb
