@@ -1,0 +1,6 @@
+C:\Users\junio\source\repos\03.console.Mermaid\bin\Debug\03.console.Mermaid.exe.config
+C:\Users\junio\source\repos\03.console.Mermaid\bin\Debug\03.console.Mermaid.exe
+C:\Users\junio\source\repos\03.console.Mermaid\bin\Debug\03.console.Mermaid.pdb
+C:\Users\junio\source\repos\03.console.Mermaid\obj\Debug\03.console.Mermaid.csprojAssemblyReference.cache
+C:\Users\junio\source\repos\03.console.Mermaid\obj\Debug\03.console.Mermaid.exe
+C:\Users\junio\source\repos\03.console.Mermaid\obj\Debug\03.console.Mermaid.pdb

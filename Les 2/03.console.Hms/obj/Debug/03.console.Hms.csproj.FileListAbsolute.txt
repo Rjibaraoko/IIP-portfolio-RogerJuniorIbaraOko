@@ -1,0 +1,5 @@
+C:\Users\junio\source\repos\03.console.Hms\bin\Debug\03.console.Hms.exe.config
+C:\Users\junio\source\repos\03.console.Hms\bin\Debug\03.console.Hms.exe
+C:\Users\junio\source\repos\03.console.Hms\bin\Debug\03.console.Hms.pdb
+C:\Users\junio\source\repos\03.console.Hms\obj\Debug\03.console.Hms.exe
+C:\Users\junio\source\repos\03.console.Hms\obj\Debug\03.console.Hms.pdb

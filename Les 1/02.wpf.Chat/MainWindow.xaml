@@ -7,9 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="Green">
-        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="326" Margin="59,62,0,0" TextChanged="TextBox_TextChanged"/>
-        <TextBox HorizontalAlignment="Left" Height="160" TextWrapping="Wrap" VerticalAlignment="Top" Width="326" Margin="59,142,0,0"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="449,49,0,0" Height="311" Width="335" Background="White"/>
+        <TextBox HorizontalAlignment="Left" Height="41" TextWrapping="Wrap" VerticalAlignment="Top" Width="287" Margin="98,63,0,0" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="126" TextWrapping="Wrap" VerticalAlignment="Top" Width="287" Margin="98,142,0,0"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="505,49,0,0" Height="311" Width="279" Background="White"/>
+        <Button x:Name="VERZENDEN" Content="VERZENDEN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="101" Margin="284,341,0,0" Height="37" Click="VERZENDEN"/>
 
     </Grid>
 </Window>

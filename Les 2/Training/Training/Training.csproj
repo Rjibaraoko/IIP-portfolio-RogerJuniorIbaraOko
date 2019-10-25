@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\junio\OneDrive\Bureau\Visual Studio OEF\Ibara-Oko Roger Junior Opgave 1.cs" Link="Ibara-Oko Roger Junior Opgave 1.cs" />
+  </ItemGroup>
+
+</Project>

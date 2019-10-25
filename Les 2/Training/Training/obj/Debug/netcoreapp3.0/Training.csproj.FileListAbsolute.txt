@@ -1,0 +1,11 @@
+C:\Users\junio\source\repos\Training\Training\bin\Debug\netcoreapp3.0\Training.exe
+C:\Users\junio\source\repos\Training\Training\bin\Debug\netcoreapp3.0\Training.deps.json
+C:\Users\junio\source\repos\Training\Training\bin\Debug\netcoreapp3.0\Training.runtimeconfig.json
+C:\Users\junio\source\repos\Training\Training\bin\Debug\netcoreapp3.0\Training.runtimeconfig.dev.json
+C:\Users\junio\source\repos\Training\Training\bin\Debug\netcoreapp3.0\Training.dll
+C:\Users\junio\source\repos\Training\Training\bin\Debug\netcoreapp3.0\Training.pdb
+C:\Users\junio\source\repos\Training\Training\obj\Debug\netcoreapp3.0\Training.csprojAssemblyReference.cache
+C:\Users\junio\source\repos\Training\Training\obj\Debug\netcoreapp3.0\Training.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\Training\Training\obj\Debug\netcoreapp3.0\Training.AssemblyInfo.cs
+C:\Users\junio\source\repos\Training\Training\obj\Debug\netcoreapp3.0\Training.dll
+C:\Users\junio\source\repos\Training\Training\obj\Debug\netcoreapp3.0\Training.pdb

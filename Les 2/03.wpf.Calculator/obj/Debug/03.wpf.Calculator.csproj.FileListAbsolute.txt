@@ -1,0 +1,14 @@
+C:\Users\junio\source\repos\03.wpf.Calculator\bin\Debug\03.wpf.Calculator.exe.config
+C:\Users\junio\source\repos\03.wpf.Calculator\bin\Debug\03.wpf.Calculator.exe
+C:\Users\junio\source\repos\03.wpf.Calculator\bin\Debug\03.wpf.Calculator.pdb
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\03.wpf.Calculator.csprojAssemblyReference.cache
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\App.g.cs
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\03.wpf.Calculator_MarkupCompile.cache
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\03.wpf.Calculator_MarkupCompile.lref
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\MainWindow.baml
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\03.wpf.Calculator.g.resources
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\_03.wpf.Calculator.Properties.Resources.resources
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\03.wpf.Calculator.csproj.GenerateResource.cache
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\03.wpf.Calculator.exe
+C:\Users\junio\source\repos\03.wpf.Calculator\obj\Debug\03.wpf.Calculator.pdb
