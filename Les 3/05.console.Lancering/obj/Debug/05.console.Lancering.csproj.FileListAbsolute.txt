@@ -1,0 +1,6 @@
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Lancering\bin\Debug\05.console.Lancering.exe.config
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Lancering\bin\Debug\05.console.Lancering.exe
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Lancering\bin\Debug\05.console.Lancering.pdb
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Lancering\obj\Debug\05.console.Lancering.csprojAssemblyReference.cache
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Lancering\obj\Debug\05.console.Lancering.exe
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Lancering\obj\Debug\05.console.Lancering.pdb
