@@ -1,0 +1,14 @@
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\02.wpf.Slider.csprojAssemblyReference.cache
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\MainWindow.g.cs
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\App.g.cs
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\02.wpf.Slider_MarkupCompile.cache
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\02.wpf.Slider_MarkupCompile.lref
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\bin\Debug\02.wpf.Slider.exe.config
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\bin\Debug\02.wpf.Slider.exe
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\bin\Debug\02.wpf.Slider.pdb
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\MainWindow.baml
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\02.wpf.Slider.g.resources
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\_02.wpf.Slider.Properties.Resources.resources
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\02.wpf.Slider.csproj.GenerateResource.cache
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\02.wpf.Slider.exe
+D:\IIP-portfolio-RogerJuniorIbaraOko\Les 1\02.wpf.Slider\obj\Debug\02.wpf.Slider.pdb

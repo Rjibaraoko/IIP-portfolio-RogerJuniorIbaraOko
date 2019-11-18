@@ -6,11 +6,13 @@
         xmlns:local="clr-namespace:_02.wpf.Chat"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Background="Green">
-        <TextBox HorizontalAlignment="Left" Height="41" TextWrapping="Wrap" VerticalAlignment="Top" Width="287" Margin="98,63,0,0" TextChanged="TextBox_TextChanged"/>
-        <TextBox HorizontalAlignment="Left" Height="126" TextWrapping="Wrap" VerticalAlignment="Top" Width="287" Margin="98,142,0,0"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="505,49,0,0" Height="311" Width="279" Background="White"/>
-        <Button x:Name="VERZENDEN" Content="VERZENDEN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="101" Margin="284,341,0,0" Height="37" Click="VERZENDEN"/>
+    <Grid Background="#FFAECFCF">
+        <TextBox x:Name="Naam" HorizontalAlignment="Left" Height="33" TextWrapping="Wrap" VerticalAlignment="Top" Width="297" Margin="99,41,0,0" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="Bericht" HorizontalAlignment="Left" Height="164" TextWrapping="Wrap" VerticalAlignment="Top" Width="297" Margin="99,121,0,0"/>
+        <TextBlock x:Name="ChatVenster" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="446,41,0,0" Width="329" Height="284" Foreground="#FFFFF6F6" Background="#FFFAFAFA"/>
+        <Label Content="Naam:" Margin="15,42,708.333,349.667"/>
+        <Label Content="Bericht:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,121,0,0" Width="70"/>
+        <Button x:Name="Verzenden" Content="Verzenden" Margin="311,308,396.333,78.667" Click="Verzenden_Click"/>
 
     </Grid>
 </Window>

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.console.Bankautomaat", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.console.Klinkers", "05.console.Klinkers\05.console.Klinkers.csproj", "{F6C925CD-1610-4365-949B-00830A85E32A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.wpf.Boodschappenlijst", "05.wpf.Boodschappenlijst\05.wpf.Boodschappenlijst.csproj", "{7DF07ABC-84F5-41FA-93F1-3DD20BC81F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F6C925CD-1610-4365-949B-00830A85E32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6C925CD-1610-4365-949B-00830A85E32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6C925CD-1610-4365-949B-00830A85E32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF07ABC-84F5-41FA-93F1-3DD20BC81F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF07ABC-84F5-41FA-93F1-3DD20BC81F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF07ABC-84F5-41FA-93F1-3DD20BC81F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF07ABC-84F5-41FA-93F1-3DD20BC81F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -25,9 +25,12 @@ namespace _02.wpf.Chat
             InitializeComponent();
         }
 
-        private void VERZENDEN(object sender, RoutedEventArgs e)
+        private void Verzenden_Click(object sender, RoutedEventArgs e)
         {
-            Environment.NewLine();
+            
+            Naam.Text = String.Empty;
+            Bericht.Text = String.Empty;
+            
         }
     }
 }

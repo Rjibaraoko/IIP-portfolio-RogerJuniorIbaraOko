@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C505AD8-17C0-46F0-8782-87903C3D2907}</ProjectGuid>
+    <ProjectGuid>{00804077-E8E7-4545-AA1D-0B8CE55CE435}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_02.wpf.Chat</RootNamespace>
     <AssemblyName>02.wpf.Chat</AssemblyName>

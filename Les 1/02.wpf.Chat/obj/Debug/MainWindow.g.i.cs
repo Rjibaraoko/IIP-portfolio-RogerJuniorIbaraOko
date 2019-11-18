@@ -76,7 +76,10 @@ namespace _02.wpf.Chat
             this._contentLoaded = true;
         }
 
-        internal System.Windows.Controls.Button VERZENDEN;
+        internal System.Windows.Controls.TextBox Naam;
+        internal System.Windows.Controls.TextBlock ChatVenster;
+        internal System.Windows.Controls.Button Verzenden;
+        internal System.Windows.Controls.TextBox Bericht;
     }
 }
 

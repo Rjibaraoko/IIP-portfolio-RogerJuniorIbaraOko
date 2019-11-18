@@ -1,0 +1,6 @@
+D:\IIP-portfolio-RogerJuniorIbaraOko\IbaraOkoRogerJunior.ConsoleTest\ConsoleApp.automaat\bin\Debug\ConsoleApp.automaat.exe.config
+D:\IIP-portfolio-RogerJuniorIbaraOko\IbaraOkoRogerJunior.ConsoleTest\ConsoleApp.automaat\bin\Debug\ConsoleApp.automaat.exe
+D:\IIP-portfolio-RogerJuniorIbaraOko\IbaraOkoRogerJunior.ConsoleTest\ConsoleApp.automaat\bin\Debug\ConsoleApp.automaat.pdb
+D:\IIP-portfolio-RogerJuniorIbaraOko\IbaraOkoRogerJunior.ConsoleTest\ConsoleApp.automaat\obj\Debug\ConsoleApp.automaat.csprojAssemblyReference.cache
+D:\IIP-portfolio-RogerJuniorIbaraOko\IbaraOkoRogerJunior.ConsoleTest\ConsoleApp.automaat\obj\Debug\ConsoleApp.automaat.exe
+D:\IIP-portfolio-RogerJuniorIbaraOko\IbaraOkoRogerJunior.ConsoleTest\ConsoleApp.automaat\obj\Debug\ConsoleApp.automaat.pdb
