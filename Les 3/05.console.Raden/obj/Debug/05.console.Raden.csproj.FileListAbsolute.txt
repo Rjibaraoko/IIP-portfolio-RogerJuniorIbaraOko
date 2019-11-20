@@ -1,6 +1,0 @@
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Raden\bin\Debug\05.console.Raden.exe.config
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Raden\bin\Debug\05.console.Raden.exe
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Raden\bin\Debug\05.console.Raden.pdb
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Raden\obj\Debug\05.console.Raden.exe
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Raden\obj\Debug\05.console.Raden.pdb
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Raden\obj\Debug\05.console.Raden.csprojAssemblyReference.cache

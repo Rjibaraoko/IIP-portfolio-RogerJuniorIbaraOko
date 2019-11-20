@@ -1,6 +1,0 @@
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Klinkers\bin\Debug\05.console.Klinkers.exe.config
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Klinkers\bin\Debug\05.console.Klinkers.exe
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Klinkers\bin\Debug\05.console.Klinkers.pdb
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Klinkers\obj\Debug\05.console.Klinkers.csprojAssemblyReference.cache
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Klinkers\obj\Debug\05.console.Klinkers.exe
-D:\IIP-portfolio-RogerJuniorIbaraOko\Les 3\05.console.Klinkers\obj\Debug\05.console.Klinkers.pdb

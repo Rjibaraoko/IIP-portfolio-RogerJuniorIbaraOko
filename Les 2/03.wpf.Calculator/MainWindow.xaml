@@ -7,7 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="button4" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="59,223,0,0" Height="45"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="635*"/>
+            <ColumnDefinition Width="158*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button4" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="59,223,0,0" Height="45" Click="button4_Click"/>
         <Button x:Name="button1" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="59,153,0,0" Click="Button_Click" Height="46"/>
         <Button x:Name="button7" Content="7" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="59,292,0,0" Height="47"/>
         <Button x:Name="buttonPunt" Content="." HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="59,362,0,0" Height="48"/>
@@ -23,12 +27,12 @@
         <Button x:Name="buttonPlus" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="474,146,0,0" Click="ButtonPlus_Click" Height="48"/>
         <Button x:Name="buttonMultip" Content="*" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="474,289,0,0" Height="48"/>
         <Button x:Name="buttonDivide" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="474,361,0,0" Height="49"/>
-        <Button x:Name="buttonSqrt" Content="SQRT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,217,0,0" Height="46"/>
-        <Button x:Name="buttonSqr" Content="SQR" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,144,0,0" Click="Button_Click" Height="48"/>
-        <Button x:Name="buttonSin" Content="SIN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,288,0,0" Height="48"/>
-        <Button x:Name="buttonRnd" Content="RND" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,360,0,0" Height="50"/>
-        <TextBlock x:Name="userInput" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="59,24,0,0" Height="54" Width="638" Background="#FFE4DBDB"/>
-        <Label x:Name="resultaat" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="432,91,0,0" Width="265" Height="31"/>
+        <Button x:Name="buttonSqrt" Content="SQRT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,217,0,0" Height="46" Grid.ColumnSpan="2"/>
+        <Button x:Name="buttonSqr" Content="SQR" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,144,0,0" Click="Button_Click" Height="48" Grid.ColumnSpan="2"/>
+        <Button x:Name="buttonSin" Content="SIN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,288,0,0" Height="48" Grid.ColumnSpan="2"/>
+        <Button x:Name="buttonRnd" Content="RND" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="622,360,0,0" Height="50" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="userInput" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="59,24,0,0" Height="54" Width="638" Background="#FFE4DBDB" Grid.ColumnSpan="2"/>
+        <Label x:Name="resultaat" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="432,91,0,0" Width="265" Height="31" Grid.ColumnSpan="2"/>
 
     </Grid>
 </Window>
